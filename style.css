@@ -1,0 +1,17 @@
+body {
+    background-color: palegoldenrod;
+}
+#score {
+    font-size: medium;
+    margin: left;
+    margin-left: 90px;
+}
+#time {
+    font-size: medium;
+    float: right;
+    margin: right;
+    margin-right: 90px;
+}
+#STBD {
+    color: peru;
+}
